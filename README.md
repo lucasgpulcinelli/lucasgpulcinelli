@@ -27,6 +27,6 @@
 <h5> What work I am doing: </h5>
 <ul>
   <li> Managing the Lisa project at the <a href="https://github.com/grupo-SEMEAR-USP/"> SEMEAR group</a>, using the IBM cloud and Watson Assistant </li>
-  <li> Creating, testing and monitoring microservices at <a htref="https://github.com/lasdpc-icmc/"> LasDPC at USP</a>, in AWS with CircleCi and k8s </li>
+  <li> Creating, testing and monitoring microservices at <a href="https://github.com/lasdpc-icmc/"> LasDPC at USP</a>, in AWS with CircleCi and k8s </li>
   <li> Organizing the develoment of an LLVM backend for our institute's architecture at <a href="https://github.com/lucasgpulcinelli/LLVM-ICMC-backend"> this repo </a> </li>
 </ul>
