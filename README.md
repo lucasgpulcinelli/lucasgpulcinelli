@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Lucas! </h1>
-<h4 align="center"> Computer Engineering student at the University of São Paulo </h4>
+<h4 align="center"> Computer Science student at the University of São Paulo </h4>
 <h5> Who am I: </h5>
 <ul>
   <li> SRE in the making </li>
