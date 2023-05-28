@@ -4,7 +4,6 @@
 <ul>
   <li> SRE in the making </li>
   <li> Experienced Linux user </li>
-  <li> Example in low level programming and modular design patterns </li>
   <li> Curious Programmer not satisfied with quick solutions without understanding concepts </li>
   <li> Open source aficionado since 2019 </li>
 </ul>
@@ -26,7 +25,6 @@
 </ul>
 <h5> What work I am doing: </h5>
 <ul>
-  <li> Managing the Lisa project at the <a href="https://github.com/grupo-SEMEAR-USP/"> SEMEAR group</a>, using the IBM cloud and Watson Assistant </li>
   <li> Creating, testing and monitoring microservices at <a href="https://github.com/lasdpc-icmc/"> LasDPC at USP</a>, in AWS with CircleCi and k8s </li>
   <li> Organising the development of an LLVM backend for our institute's architecture at <a href="https://github.com/lucasgpulcinelli/LLVM-ICMC-backend"> this repo </a> </li>
 </ul>
